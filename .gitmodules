@@ -1,0 +1,9 @@
+[submodule "OpenCad"]
+	path = OpenCad
+	url = https://github.com/NexusRisen/OpenCad
+[submodule "server"]
+	path = server
+	url = https://github.com/NexusRisen/NexusRisen
+[submodule "Real-GTA-Ads"]
+	path = Real-GTA-Ads
+	url = https://github.com/NexusRisen/Real-GTA-Ads
